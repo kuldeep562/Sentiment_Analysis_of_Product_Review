@@ -47,6 +47,6 @@ This dataset is perfect for tasks such as:
 - This dataset is widely available on various platforms.
 - For this project, place the file in the `data/` folder and rename it (if needed) to:
   ```
-  sample_reviews.csv
+  Reviews.csv
   ```
 
