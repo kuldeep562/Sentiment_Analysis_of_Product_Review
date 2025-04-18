@@ -9,7 +9,7 @@ We load product reviews, perform sentiment analysis, and visualize the sentiment
 ## 📁 Files
 
 - `Sentiment_Analysis_With_Extras.ipynb`: Main Jupyter Notebook
-- `data/sample_reviews.csv`: Review data (add your dataset here)
+- `data/Reviews.csv`: Review data
 - `requirements.txt`: Python dependencies
 - `.gitignore`: Files to exclude from Git
 
@@ -31,7 +31,7 @@ We load product reviews, perform sentiment analysis, and visualize the sentiment
    jupyter notebook Sentiment_Analysis_With_Extras.ipynb
    ```
 
-4. Make sure `data/sample_reviews.csv` is available in the `data/` folder.
+4. Make sure `data/Reviews.csv` is available in the `data/` folder.
 
 ## 🛠️ Requirements
 
