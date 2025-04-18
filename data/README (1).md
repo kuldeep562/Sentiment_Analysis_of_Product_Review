@@ -13,6 +13,12 @@ It is intended for use in **sentiment analysis**, **product feedback mining**, a
 - **File Format:** CSV
 - **Source Domain:** [amazon.com](https://www.amazon.com)
 
+## 📥 Download Dataset
+
+Due to size limits, the dataset is not included here.  
+Please download it manually from [Kaggle](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews)  
+and place it inside the `data/` folder as `sample_reviews.csv`.
+
 ---
 
 ## 📌 Columns Explained
